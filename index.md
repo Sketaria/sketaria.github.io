@@ -4,7 +4,3 @@
 ## Acciones
 - [Registro de ciudadanos](registro)
 - Comprar tierra
-
-## Mapa
-
-![Mapa, 16/08/2022](mapa.JPG)
