@@ -2,7 +2,7 @@
 **[Estamos aceptando nuevos ciudadanos sin costo alguno, haz clic aquí para ver mas detalles](registro)**
 
 ## Acciones
-- Registro de ciudadanos
+- [Registro de ciudadanos](registro)
 - Comprar tierra
 
 ## Mapa
