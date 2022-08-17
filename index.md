@@ -1,4 +1,4 @@
-![Bandera de Sketaria](IMG_0353.JPG)
+![Bandera de Sketaria](Bandera.PNG)
 # Bienvenid@ a Sketaria
 **[Estamos aceptando nuevos ciudadanos sin costo alguno, haz clic aquí para ver mas detalles](registro)**
 
